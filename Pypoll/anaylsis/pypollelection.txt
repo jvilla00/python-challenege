@@ -1,0 +1,8 @@
+Election Results
+.........................
+totl votes369711
+.........................
+reducecandidates[0],canonepercent, canvoteslist[0] 
+reducecandidates[1]+cantwopercent+canvoteslist[1] 
+reducecandidates[2]+canthreepercent+canvoteslist[2] 
+Diana DeGette

@@ -1,0 +1,7 @@
+financial analysis
+.........................
+Months: 86
+total: $22564198
+Average change: $-8311.105882352942
+max increase1862002
+min decrease-1825558
